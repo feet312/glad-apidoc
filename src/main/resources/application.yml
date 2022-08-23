@@ -1,0 +1,16 @@
+##########
+### PRD 
+##########
+
+server:
+  port: 8080
+  forward-headers-strategy: framework
+  
+  
+spring:
+  application:
+    name: icis-apidoc
+  profiles:
+    active: local
+  main:
+    banner-mode: 'off'
