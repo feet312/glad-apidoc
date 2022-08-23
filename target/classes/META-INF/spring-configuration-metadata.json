@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "services",
+      "type": "com.kt.icis.apidoc.config.IcisApidocsConfig",
+      "sourceType": "com.kt.icis.apidoc.config.IcisApidocsConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "services.target",
+      "type": "java.util.List<com.kt.icis.apidoc.dto.ServiceTarget>",
+      "sourceType": "com.kt.icis.apidoc.config.IcisApidocsConfig"
+    }
+  ],
+  "hints": []
+}
