@@ -1,0 +1,6 @@
+META-INF/spring-configuration-metadata.json
+com/kt/icis/apidoc/config/IcisApidocsConfig.class
+com/kt/icis/apidoc/dto/ServiceTarget.class
+com/kt/icis/apidoc/endpoint/IcisApidocEndpoint.class
+com/kt/icis/apidoc/IcisApidocApplication.class
+com/kt/icis/apidoc/endpoint/SystemEndpoint.class
